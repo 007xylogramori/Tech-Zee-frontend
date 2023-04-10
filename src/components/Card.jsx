@@ -8,36 +8,36 @@ const Card = () => {
         {/* <h1>What can you learn and teach ? Anything</h1> */}
         <h1>What can you learn and teach ? Anything</h1>
         <div className="cardWrapper">
-          <div className="cards">
-            <h1>Music</h1>
+          <div className="cards fw-bold">
+            Music
           </div>
-          <div className="cards">
-            <h1>Dance</h1>
+          <div className="cards fw-bold">
+            Dance
           </div>
-          <div className="cards">
-            <h1>Health And Fitness</h1>
+          <div className="cards fw-bold">
+            Health And Fitness
           </div>
 
-          <div className="cards">
-            <h1>Astrology</h1>
+          <div className="cards fw-bold">
+            Astrology
           </div>
-          <div className="cards">
-            <h1>Sports</h1>
+          <div className="cards fw-bold">
+            Sports
           </div>
-          <div className="cards">
-            <h1>School and College</h1>
+          <div className="cards fw-bold">
+            School and College
           </div>
-          <div className="cards">
-            <h1>Entrance Examination</h1>
+          <div className="cards fw-bold">
+            Entrance Examination
           </div>
-          <div className="cards">
-            <h1>Development</h1>
+          <div className="cards fw-bold">
+            Development
           </div>
-          <div className="cards">
-            <h1>Carreer Guides</h1>
+          <div className="cards fw-bold">
+            Carreer Guides
           </div>
-          <div className="cards">
-            <h1>Business And Finance</h1>
+          <div className="cards fw-bold">
+            Business And Finance
           </div>
         </div>
       </div>
