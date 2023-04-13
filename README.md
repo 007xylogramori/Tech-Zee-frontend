@@ -18,11 +18,6 @@ Access my site at [TZEE](https://tzee.netlify.app/)
 - Create process.env file
 - ADD REACT_APP_HOST=http://localhost:5000/
 - Fork and clone Backend code from [Backend](https://github.com/prernadabi23/TZEE-backend)
-## Approach
-I adopted the `BEM` naming style for my css class names and ...
-
-## Status
-[name of project] is still in progress. `Version 2` will be out soon.
 
 ## Credits
 List of contriubutors:
