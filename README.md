@@ -15,7 +15,7 @@ Access my site at [TZEE](https://tzee.netlify.app/)
 ## Setup
 - download or clone the repository
 - run `npm install`
-- Create process.env file
+- Create .env.local file
 - ADD REACT_APP_HOST=http://localhost:5000/
 - Fork and clone Backend code from [Backend](https://github.com/prernadabi23/TZEE-backend)
 
